@@ -1,0 +1,148 @@
+Found 12 "View Details" links on the page
+Mapped "RAINBOW ROAD" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=42
+Mapped "RAINBOW FOREST" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=43
+Mapped "BANANA BLAST" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=44
+Mapped "BLACK CHERRY GELATO" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=45
+Mapped "POPPING CHERRY" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=46
+Mapped "PINK COTTON CANDY" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=47
+Mapped "COOKIE CRUMBLE" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=48
+Mapped "COTTON CANDY CLOUD" → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=49
+Mapped "DEATH BREATH" → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=19
+Mapped "DEAD CHILL" → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=20
+Mapped "CRUNCH BERRIES" → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=21
+Mapped "PURPLE SKITTLES" → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=22
+All collected product URLs: {
+  'RAINBOW ROAD': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=42',
+  'RAINBOW FOREST': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=43',
+  'BANANA BLAST': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=44',
+  'BLACK CHERRY GELATO': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=45',
+  'POPPING CHERRY': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=46',
+  'PINK COTTON CANDY': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=47',
+  'COOKIE CRUMBLE': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=48',
+  'COTTON CANDY CLOUD': 'http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=49',
+  'DEATH BREATH': 'http://31.97.61.59:6030/our-products/exotic-thca-flower?V=19',
+  'DEAD CHILL': 'http://31.97.61.59:6030/our-products/exotic-thca-flower?V=20',
+  'CRUNCH BERRIES': 'http://31.97.61.59:6030/our-products/exotic-thca-flower?V=21',
+  'PURPLE SKITTLES': 'http://31.97.61.59:6030/our-products/exotic-thca-flower?V=22'
+}
+Navigating to product: DEATH BREATH → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=19
+Age gate dismissed.
+  ✓ Flavor button visible: "Death Breath"
+  Clicked flavor: "Death Breath"
+  Clicked flavor: "Dead Chill"
+  Clicked flavor: "Crunch Berries"
+  Clicked flavor: "Purple Skittles"
+  Clicked flavor: "Sweet Retreat"
+  Clicked flavor: "Slurricane"
+  Clicked flavor: "Caramel Pop Rock"
+  Clicked flavor: "Sherbang"
+Navigating to product: DEAD CHILL → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=20
+  ✓ Flavor button visible: "Death Breath"
+  Clicked flavor: "Death Breath"
+  Clicked flavor: "Dead Chill"
+  Clicked flavor: "Crunch Berries"
+  Clicked flavor: "Purple Skittles"
+  Clicked flavor: "Sweet Retreat"
+  Clicked flavor: "Slurricane"
+  Clicked flavor: "Caramel Pop Rock"
+  Clicked flavor: "Sherbang"
+Navigating to product: CRUNCH BERRIES → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=21
+  ✓ Flavor button visible: "Death Breath"
+  Clicked flavor: "Death Breath"
+  Clicked flavor: "Dead Chill"
+  Clicked flavor: "Crunch Berries"
+  Clicked flavor: "Purple Skittles"
+  Clicked flavor: "Sweet Retreat"
+  Clicked flavor: "Slurricane"
+  Clicked flavor: "Caramel Pop Rock"
+  Clicked flavor: "Sherbang"
+Navigating to product: PURPLE SKITTLES → http://31.97.61.59:6030/our-products/exotic-thca-flower?V=22
+  ✓ Flavor button visible: "Death Breath"
+  Clicked flavor: "Death Breath"
+  Clicked flavor: "Dead Chill"
+  Clicked flavor: "Crunch Berries"
+  Clicked flavor: "Purple Skittles"
+  Clicked flavor: "Sweet Retreat"
+  Clicked flavor: "Slurricane"
+  Clicked flavor: "Caramel Pop Rock"
+  Clicked flavor: "Sherbang"
+Navigating to product: RAINBOW ROAD → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=42
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: RAINBOW FOREST → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=43
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: BANANA BLAST → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=44
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: BLACK CHERRY GELATO → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=45
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: POPPING CHERRY → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=46
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: PINK COTTON CANDY → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=47
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: COOKIE CRUMBLE → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=48
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"
+Navigating to product: COTTON CANDY CLOUD → http://31.97.61.59:6030/our-products/exotic-thca-flower-2?V=49
+  ✓ Flavor button visible: "Rainbow Road"
+  Clicked flavor: "Rainbow Road"
+  Clicked flavor: "Rainbow Forest"
+  Clicked flavor: "Banana Blast"
+  Clicked flavor: "Black Cherry Gelato"
+  Clicked flavor: "Popping Cherry"
+  Clicked flavor: "Pink Cotton Candy"
+  Clicked flavor: "Cookie Crumble"
+  Clicked flavor: "Cotton Candy Cloud"

@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","48225","Blog Page - Full Flow Test","chromium","2026-05-05","passed","2026-05-05","","blog.spec.ts","",""
+"","16948","Execute all 17 steps for Contact Us verification","chromium","2026-05-05","passed","2026-05-05","Contact Us Page – Form Interaction & Validation","contact-us.spec.ts","",""
+"","59655","Execute COA verification for all 16 links in strict order","chromium","2026-05-05","passed","2026-05-05","COA Page – Lab Results & All Links Navigation","coa.spec.ts","",""
+"","2290","Execute all 24 steps for FAQ verification","chromium","2026-05-05","passed","2026-05-05","FAQ Page – Content Verification (Strict Order)","faqs.spec.ts","",""
+"","56462","About Page - Full Flow Test","chromium","2026-05-05","passed","2026-05-05","","about.spec.ts","",""
+"","89072","Home Page - Full Flow Test","chromium","2026-05-05","passed","2026-05-05","","home.spec.ts","",""
+"","154891","Our Products Page - Full Flow Test","chromium","2026-05-05","passed","2026-05-05","","our-products.spec.ts","",""
